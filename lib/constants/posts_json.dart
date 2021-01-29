@@ -1,4 +1,4 @@
-List posts = [
+List arrayOfposts = [
   {
     "backgroundUrl":
         "https://images.unsplash.com/photo-1523450001312-faa4e2e37f0f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFuY2luZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
